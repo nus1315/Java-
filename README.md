@@ -1,5 +1,5 @@
 # Java-
-Lecture on my class (semester 1.2)
+Lecture on my class (semester 1.2 and 2.2)
 ## outline
 
 - week 1 : introduction
@@ -11,3 +11,4 @@ Lecture on my class (semester 1.2)
 - week 4 : Loop
 
 - week 5 : Arrays
+## OOP in semeter 2.2
